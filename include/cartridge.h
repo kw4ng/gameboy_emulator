@@ -1,0 +1,10 @@
+#ifndef GAMEBOY_EMULATOR_CARTRIDGE_H
+#define GAMEBOY_EMULATOR_CARTRIDGE_H
+
+
+class cartridge {
+
+};
+
+
+#endif //GAMEBOY_EMULATOR_CARTRIDGE_H

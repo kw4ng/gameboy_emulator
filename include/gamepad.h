@@ -1,0 +1,10 @@
+#ifndef GAMEBOY_EMULATOR_GAMEPAD_H
+#define GAMEBOY_EMULATOR_GAMEPAD_H
+
+
+class gamepad {
+
+};
+
+
+#endif //GAMEBOY_EMULATOR_GAMEPAD_H

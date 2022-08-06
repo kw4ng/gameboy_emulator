@@ -1,8 +1,9 @@
 # ninja log v5
-0	145	6815145603291902	build.ninja	a2c7a6e3790ff449
-3	843	6814696513826968	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	a93b8baa24811a4a
-3	974	6815145854200135	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
-3	1028	6815146882866999	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
-3	1113	6815147033875534	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
-2	833	6815147518513470	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
-833	928	6815147519424297	gameboy_emulator.exe	e72244fe5f3bad5a
+0	145	6815301683931130	build.ninja	a2c7a6e3790ff449
+11	1045	6815288198426292	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	969f903ca5fe1c8
+19	297	6815288190913300	CMakeFiles/gameboy_emulator.dir/src/clock.cpp.obj	2221267caba17675
+1047	1246	6815288200383128	gameboy_emulator.exe	41af2df407dd440f
+15	289	6815288190808138	CMakeFiles/gameboy_emulator.dir/src/ppu.cpp.obj	9fe43e1fb8c7a468
+7	263	6815288190577929	CMakeFiles/gameboy_emulator.dir/src/emulator.cpp.obj	b8226870146d9bdd
+0	273	6815288190587941	CMakeFiles/gameboy_emulator.dir/src/bus.cpp.obj	97b1ca6f05e90be2
+4	279	6815288190607958	CMakeFiles/gameboy_emulator.dir/src/cartridge.cpp.obj	1fbf4e191d550247

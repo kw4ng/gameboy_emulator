@@ -1,0 +1,10 @@
+#ifndef GAMEBOY_EMULATOR_EMULATOR_H
+#define GAMEBOY_EMULATOR_EMULATOR_H
+
+
+class emulator {
+
+};
+
+
+#endif //GAMEBOY_EMULATOR_EMULATOR_H

@@ -176,11 +176,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "C:/Program Files/JetBrains/CLion 2022.1.3/bin/cmake/win/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "C:/Program Files/JetBrains/CLion 2022.1.3/bin/cmake/win/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
 		},
 		{

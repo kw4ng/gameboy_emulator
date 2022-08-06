@@ -1,0 +1,10 @@
+#ifndef GAMEBOY_EMULATOR_CLOCK_H
+#define GAMEBOY_EMULATOR_CLOCK_H
+
+
+class clock {
+
+};
+
+
+#endif //GAMEBOY_EMULATOR_CLOCK_H

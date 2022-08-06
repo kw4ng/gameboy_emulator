@@ -9,6 +9,15 @@ set(SDL2_PATH C:/Users/kevin/source/libraries/SDL2_2_0_22/x86_64-w64-mingw32)
 find_package(SDL2 REQUIRED)
 include_directories(${SDL2_INCLUDE_DIR})
 
-add_executable(${PROJECT_NAME} main.cpp)
+file(GLOB SOURCES src/*.cpp)
+add_executable(${PROJECT_NAME} ${SOURCES} main.cpp)
 
 target_link_libraries(${PROJECT_NAME} ${SDL2_LIBRARY})
+
+target_include_directories(${PROJECT_NAME}
+        PUBLIC
+            $<INSTALL_INTERFACE:include>
+            $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
+
+        PRIVATE
+)
