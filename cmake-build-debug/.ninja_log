@@ -1,0 +1,8 @@
+# ninja log v5
+0	145	6815145603291902	build.ninja	a2c7a6e3790ff449
+3	843	6814696513826968	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	a93b8baa24811a4a
+3	974	6815145854200135	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
+3	1028	6815146882866999	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
+3	1113	6815147033875534	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
+2	833	6815147518513470	CMakeFiles/gameboy_emulator.dir/main.cpp.obj	36342764ae0f3549
+833	928	6815147519424297	gameboy_emulator.exe	e72244fe5f3bad5a
